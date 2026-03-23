@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"builtins.h": "c",
+		"type_traits": "c",
+		"exec.h": "c",
+		"tokenizer.h": "c",
+		"stdarg.h": "c",
+		"errno.h": "c"
+	}
+}
